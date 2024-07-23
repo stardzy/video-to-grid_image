@@ -14,4 +14,4 @@
 
 示意图
 
-![1](example_video_grid_image.jpg)
+![1](example_video_grid_image.png)
